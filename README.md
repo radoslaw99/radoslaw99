@@ -2,7 +2,7 @@
 🎓 I’m a 3rd-year Computer Science student.<br>🔍 I’m interested in Quality Assurance (QA) and this is the field where I want to grow and build my future career.<br>🧪 I focus on software testing, bug analysis, and improving product quality — both manual and automated testing.<br>🚀 My goal is to gain real-world experience and develop as a QA specialist.
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radekcyboron@gmail.com) 
 
 # 💻 Tech Stack:
